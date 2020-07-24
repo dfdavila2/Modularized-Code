@@ -1,5 +1,6 @@
 # Modularized-Code
-Python example for working with modules and creating a package
+
+This is a python example for working with modules and creating a package
 
 So far the coding exercises have been in Jupyter notebooks. Jupyter notebooks are especially useful for data science applications because you can wrangle data, analyze data and share a report all in one document; however, they're not ideal for writing modular programs, which require separating code into different files.
 
